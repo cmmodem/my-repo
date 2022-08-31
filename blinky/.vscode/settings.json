@@ -1,0 +1,10 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ],
+    "nrf-connect.toolchain.path": "PATH",
+    "files.associations": {
+        "zephyr.h": "c"
+    },
+    "cortex-debug.showRTOS": true
+}
